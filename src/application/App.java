@@ -1,9 +1,9 @@
 package application;
 
-import controller.Valores;
+import controller.Exercicio1;
 
 public class App {
     public static void main(String [] args){
-        new Valores();
+        new Exercicio1();
     }
 }

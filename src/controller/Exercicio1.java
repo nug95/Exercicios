@@ -3,11 +3,11 @@ package controller;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Valores {
+public class Exercicio1 {
 
     ArrayList _ex1;
 
-    public Valores(){
+    public Exercicio1(){
         _ex1 = new ArrayList();
 
         System.out.printf("\n\t Exercicio 1.1 \n");
